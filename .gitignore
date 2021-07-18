@@ -1,0 +1,7 @@
+node_modules
+
+src/fakeDatabase.js
+src/serverReqs.js
+src/serverReqs2.js
+
+notasMongoDB.txt
