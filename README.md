@@ -10,4 +10,4 @@ Esta página incorpora lo siguiente:
 - Uso de Postman para testear el server hecho con Express
 - Uso de MongoDB para manejar consultas sobre una base de datos ficticia empleada en la página, la cual almacena información del usuario como nombre, comentarios y votos
   de forma permanente
-- Uso de AWS para alojar el sitio creando una instancia (instalando en ella NPM, NodeJS, MongoDB para correr la app)
+- Uso de AWS para alojar el sitio creando una instancia (instalando en ella NPM, NodeJS, MongoDB para correr la app) --> ec2-18-119-29-7.us-east-2.compute.amazonaws.com
